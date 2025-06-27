@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "name": "Salary",
+    "type": "income",
+    "color": "#10b981"
+  },
+  {
+    "Id": 2,
+    "name": "Freelance",
+    "type": "income",
+    "color": "#06b6d4"
+  },
+  {
+    "Id": 3,
+    "name": "Investment",
+    "type": "income",
+    "color": "#8b5cf6"
+  },
+  {
+    "Id": 4,
+    "name": "Housing",
+    "type": "expense",
+    "color": "#ef4444"
+  },
+  {
+    "Id": 5,
+    "name": "Food",
+    "type": "expense",
+    "color": "#f59e0b"
+  },
+  {
+    "Id": 6,
+    "name": "Transportation",
+    "type": "expense",
+    "color": "#3b82f6"
+  },
+  {
+    "Id": 7,
+    "name": "Utilities",
+    "type": "expense",
+    "color": "#6366f1"
+  },
+  {
+    "Id": 8,
+    "name": "Entertainment",
+    "type": "expense",
+    "color": "#ec4899"
+  }
+]

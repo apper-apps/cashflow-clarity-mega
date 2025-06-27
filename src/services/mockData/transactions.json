@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 1,
+    "type": "income",
+    "amount": 5000,
+    "description": "Monthly Salary",
+    "category": "salary",
+    "date": "2024-01-01",
+    "recurrence": "monthly",
+    "recurrenceEnd": null
+  },
+  {
+    "Id": 2,
+    "type": "expense",
+    "amount": 1200,
+    "description": "Rent Payment",
+    "category": "housing",
+    "date": "2024-01-01",
+    "recurrence": "monthly",
+    "recurrenceEnd": null
+  },
+  {
+    "Id": 3,
+    "type": "expense",
+    "amount": 400,
+    "description": "Groceries",
+    "category": "food",
+    "date": "2024-01-05",
+    "recurrence": "weekly",
+    "recurrenceEnd": null
+  },
+  {
+    "Id": 4,
+    "type": "income",
+    "amount": 1500,
+    "description": "Freelance Project",
+    "category": "freelance",
+    "date": "2024-01-15",
+    "recurrence": "none",
+    "recurrenceEnd": null
+  },
+  {
+    "Id": 5,
+    "type": "expense",
+    "amount": 200,
+    "description": "Electric Bill",
+    "category": "utilities",
+    "date": "2024-01-10",
+    "recurrence": "monthly",
+    "recurrenceEnd": null
+  }
+]
